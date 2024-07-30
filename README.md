@@ -1,14 +1,13 @@
 Borb
-Pypdfium2
+Pypdfium2 OK
 pdfminer.six
 pdfplummber
-pdfrw
-pdftotext
-pymupdf
+pdfrw OK
+pdftotext OK
+pymupdf OK
 pypdf
-Tika
-textract
-fitz
+Tika OK
+textract 
 pdfplumber
 xpdf
 pikepdf
